@@ -1,57 +1,91 @@
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F75B9,55:6689C3,100:E77722&height=220&section=header&text=Hi%2C%20I'm%20Molly&fontSize=44&fontColor=FFF5E6&animation=fadeIn&fontAlignY=36&desc=AI%20Product%20Builder%20%E2%86%92%20Human-Centered%20AI&descSize=20&descAlignY=56" alt="Molly profile banner" />
+</p>
 
-![Molly Han](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=210&section=header&text=Molly%20Han&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20Product%20Builder&descSize=20&descAlignY=56&animation=fadeIn)
+<p align="center">
+  <a href="https://github.com/mollyhan-ai">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E77722&center=true&vCenter=true&width=820&lines=LLMs+%7C+RAG+%7C+AI+Agents+%7C+AI-Native+Workflows;Turning+complex+AI+into+clear+and+useful+products;Exploring+AI+through+users%2C+products%2C+and+communication" alt="Typing introduction" />
+  </a>
+</p>
 
-### Building AI products people can understand, trust, and use.
+<p align="center">
+  <a href="https://github.com/mollyhan-ai">
+    <img src="https://img.shields.io/badge/GitHub-mollyhan--ai-4F75B9?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mengyu-han-475551201">
+    <img src="https://img.shields.io/badge/LinkedIn-Mengyu%20Han-4F75B9?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mollymo2027@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-E77722?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mollyhan-ai&style=flat-square&color=4F75B9&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-AI Product Builder · HCIT @ University of York  
-Exploring LLMs, RAG & AI agents
+## About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-mollyhan--ai-181717?style=for-the-badge&logo=github)](https://github.com/mollyhan-ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mengyu_Han-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mengyu-han-475551201)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mollymo2027@gmail.com)
+从 HCIT 学习和 AI 产品实践出发，我正在探索以人为本的 AI 产品设计。
 
-</div>
+我关注的不只是模型“能不能做到”，也关心复杂技术能否被解释清楚、被用户理解和信任，并最终变成真正有用的产品体验。
 
-## 👋 About me
+## What I'm Working On
 
-你好，我是 Molly。我关注以人为本的 AI 产品，希望把复杂技术变成清晰、可信、真正有人愿意使用的体验。
+- 🤖 探索 LLM、RAG、AI Agent 与 AI-native workflows
+- 🧩 把复杂的 AI 概念转化为适合初学者理解的视觉内容
+- 🎨 围绕 Molly 比熊犬构建一致的内容与视觉系统
+- 🧭 在 University of York 学习 HCIT，持续关注 Human-Centered AI
+- ✍️ 记录 AI 产品分析、产品体验与项目复盘
 
-- 🧭 Interested in human-centered AI and thoughtful product design
-- 🔭 Building tools that turn complex AI ideas into approachable visual stories
-- 🌱 Learning and experimenting with LLMs, RAG, AI agents, and AI-native workflows
-- ✨ I value clarity, restraint, and useful details—in products, code, and communication
+## Focus & Toolkit
 
-## 🚀 Featured work
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-4F75B9?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-E77722?style=flat-square&logo=semanticweb&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI_Agents-496B59?style=flat-square&logo=probot&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/AI_Product_Design-4F75B9?style=flat-square&logo=producthunt&logoColor=white" alt="AI Product Design" />
+  <img src="https://img.shields.io/badge/User_Experience-E77722?style=flat-square&logo=figma&logoColor=white" alt="User Experience" />
+  <img src="https://img.shields.io/badge/Python-4F75B9?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-E77722?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-4F75B9?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-4F75B9?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-496B59?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-2E3440?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-2E3440?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## Research & Writing
+
+- 让 AI 产品更容易理解、信任和使用
+- 面向初学者的 RAG、Agent、Prompt 与 Transformer 图解
+- AI 产品分析、产品体验与 AI-native 工作流
+- 视觉解释、内容系统与一致的 AI 品牌表达
+
+## Featured Projects
 
 | Project | What it does |
 | --- | --- |
 | [**Redbook AI Explainers**](https://github.com/mollyhan-ai/create-xiaohongshu-ai-explainers) | A Codex skill that researches, writes, designs, and quality-checks Molly-style Xiaohongshu carousel explainers for AI concepts. |
-| [**Portfolio**](https://github.com/mollyhan-ai/portfolio) | A clean, responsive personal homepage built with HTML and CSS. |
+| [**Portfolio**](https://github.com/mollyhan-ai/portfolio) | A clean, responsive personal homepage for sharing projects and ideas. |
 
-## 🧰 Focus & toolkit
+## GitHub Analytics
 
-<p>
-  <img src="https://img.shields.io/badge/LLMs-6C63FF?style=flat-square" alt="LLMs" />
-  <img src="https://img.shields.io/badge/RAG-4F8CC9?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI_Agents-00A67E?style=flat-square" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/AI_Product_Design-F06292?style=flat-square" alt="AI Product Design" />
-  <img src="https://img.shields.io/badge/User_Experience-FF9F43?style=flat-square" alt="User Experience" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mollyhan-ai&theme=nord_dark" width="32%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mollyhan-ai&theme=nord_dark" width="32%" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mollyhan-ai&theme=nord_dark" width="32%" alt="Most committed languages" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,git,github,vscode&perline=8" alt="Python, JavaScript, HTML, CSS, Node.js, Git, GitHub and VS Code" />
+<details>
+  <summary><strong>More GitHub stats</strong></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mollyhan-ai&theme=nord_dark" width="100%" alt="GitHub profile details" />
+  </p>
+</details>
+
+<p align="center">
+  <em>Making complex AI clearer, kinder, and more useful.</em>
 </p>
 
-## 📊 GitHub snapshot
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mollyhan-ai&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Molly's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mollyhan-ai&layout=compact&hide_border=true&theme=transparent" alt="Molly's most-used languages" />
-</div>
-
----
-
-<div align="center">
-  <sub>Thanks for stopping by. 欢迎交流 AI 产品、内容创作与人机交互。</sub>
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E77722,45:6689C3,100:4F75B9&height=110&section=footer" alt="Profile footer" />
+</p>
